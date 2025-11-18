@@ -6,12 +6,16 @@
 
 <div align="center">
 
-**Tharika Puntlert (ธาริกา พันธุ์เลิศ)** *(Published under the name “Dharika Phanlert” in the journal record)* Department of Materials and Metallurgical Engineering  
+**Tharika Puntlert (ธาริกา พันธุ์เลิศ)**
+*(Published under the name “Dharika Phanlert”)*
+Department of Materials and Metallurgical Engineering
 **Suranaree University of Technology (SUT)**, Nakhon Ratchasima, Thailand
 
-📄 *Science and Engineering Connect*, Vol. 47, No. 3 (2024), pp. 244–256  
-📘 ISSN 3027-7914 (Online)  
+📄 *Science and Engineering Connect*, Vol. 47, No. 3 (2024), pp. 244–256
+📘 ISSN 3027-7914 (Online)
 🔗 [Full Paper on TCI-ThaijO](https://ph04.tci-thaijo.org/index.php/SEC/article/view/7699)
+
+*(Research conducted in collaboration with W. Thongking et al.)*
 
 </div>
 
